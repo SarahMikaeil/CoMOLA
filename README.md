@@ -1,5 +1,8 @@
+#### This modified version explores the possibility of applying CoMOLA into land-use optimization models on a neighborhood scale with the objectives of (i) Maximizing Spatial Compactness, (ii) Maximizing land-use Compatibility, (iii) Maximizing Economic Benefits. 
+###### Contact: [sarahemadmikaeil@alexu.edu.eg](sarahemadmikaeil@alexu.edu.eg)
+###### Reference : [Abdelghany et al.,2022](https://programm.corp.at/cdrom2022/papers2022/CORP2022_53.pdf)
 # CoMOLA - Constrained Multi-objective Optimization of Land use Allocation
-###### *Michael Strauch and Carola Pätzold*
+###### *Michael Strauch and Carola Pï¿½tzold*
 ###### Contact: michael.strauch@ufz.de
 ###### Main reference: [Strauch et al., 2019](https://doi.org/10.1016/j.envsoft.2019.05.003)
 
@@ -8,7 +11,7 @@ CoMOLA is a free Python tool to optimize the allocation of land use for multiple
 
 ![CoMOLA in a nutshell...](CoMOLA_flowchart.png)
 
-The tool was systematically tested for different levels of complexity ([Strauch et al., 2019](https://doi.org/10.1016/j.envsoft.2019.05.003)) and applied for agricultural case studies in the Netherlands (Kromme Rijn, 219 km²) and Central Germany (Lossa, 141 km²) to best reconcile food production, biodiversity and other ecosystem services ([Verhagen et al., 2018](https://doi.org/10.1016/j.envsci.2018.03.013); [Kaim et al., 2020](https://doi.org/10.3389/frwa.2020.579087)). [Witing et al. (2021)](https://doi.org/10.1111/1365-2664.14176) used CoMOLA to optimize riparian reforestation along the Zwalm River (Belgium) and [Schwarz et al. (2020)](https://doi.org/10.3389/fenvs.2020.00016) optimized a virtual urban region to foster plant species richness, climate regulation and compactness. [Bartkowski et al. (2020)](https://doi.org/10.3389/fenvs.2020.00103) used the tool to investigate the applicability of aligning Agent-Based Modeling with multi-objective land-use allocation. Currently, CoMOLA is providing the optimization environment for the EU research project [OPTAIN](https://www.optain.eu/) (grant agreement No. 862756) to explore optimal strategies to retain water and nutrients in 14 small agricultural catchments across Europe.
+The tool was systematically tested for different levels of complexity ([Strauch et al., 2019](https://doi.org/10.1016/j.envsoft.2019.05.003)) and applied for agricultural case studies in the Netherlands (Kromme Rijn, 219 kmï¿½) and Central Germany (Lossa, 141 kmï¿½) to best reconcile food production, biodiversity and other ecosystem services ([Verhagen et al., 2018](https://doi.org/10.1016/j.envsci.2018.03.013); [Kaim et al., 2020](https://doi.org/10.3389/frwa.2020.579087)). [Witing et al. (2021)](https://doi.org/10.1111/1365-2664.14176) used CoMOLA to optimize riparian reforestation along the Zwalm River (Belgium) and [Schwarz et al. (2020)](https://doi.org/10.3389/fenvs.2020.00016) optimized a virtual urban region to foster plant species richness, climate regulation and compactness. [Bartkowski et al. (2020)](https://doi.org/10.3389/fenvs.2020.00103) used the tool to investigate the applicability of aligning Agent-Based Modeling with multi-objective land-use allocation. Currently, CoMOLA is providing the optimization environment for the EU research project [OPTAIN](https://www.optain.eu/) (grant agreement No. 862756) to explore optimal strategies to retain water and nutrients in 14 small agricultural catchments across Europe.
 
 ## Installation requirements
 
