@@ -10,7 +10,7 @@ for i in range(rows):
         cellValue = inputMatrix[i][j]
         if cellValue in economy_landuses:
           results += pow(25, 2)
-print("resultsssssssssssssssss", results)
+print("results", results)
 f = open("E:\Msc\CoMOLA-master\models\economy\economy_output.csv", "w")
 f.write(str(results))
 f.close

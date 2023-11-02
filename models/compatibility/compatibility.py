@@ -23,7 +23,7 @@ for i in range(rows):
         print(round(result))
         results += round(result)
 
-print("resultsssssssssssssssss", results)
+print("results", results)
 f = open("E:\Msc\CoMOLA-master\models\compatibility\compatibility_output.csv", "w")
 f.write(str(results))
 f.close

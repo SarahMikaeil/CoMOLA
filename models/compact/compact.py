@@ -18,7 +18,7 @@ for i in range(rows):
         print(result)
         results += result
 
-print("resultsssssssssssssssss", results)
+print("results", results)
 f = open("E:\Msc\CoMOLA-master\models\compact\compact_output.csv", "w")
 f.write(str(results))
 f.close
